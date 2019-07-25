@@ -16,3 +16,5 @@
 ```js
 const calculator = require('calculator-tlaohachai');
 ```
+
+### วิธีการบวก
