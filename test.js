@@ -1,0 +1,6 @@
+
+const cal = require('./index');
+
+console.log(cal.plus(5, 1));
+console.log(cal.subtract(10, 2));
+

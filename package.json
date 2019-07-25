@@ -1,0 +1,14 @@
+{
+  "name": "calculator-tlaohahcai",
+  "version": "1.0.0",
+  "description": "Test my node module package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TLaohachai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
