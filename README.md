@@ -28,3 +28,6 @@ const calculator = require('calculator-tlaohachai');
  - คัดลอกโค้ดมาวางที่ README.md
 
 ![2019-07-25_11-46-49](https://user-images.githubusercontent.com/53287129/61846616-f4cd3d80-aed1-11e9-9292-bd336cb7471a.png)
+
+
+[เปิดหน้า Support](./SUPPORT.md)
