@@ -11,6 +11,8 @@
 
 ## วิธีใช้งาน
 
+ต้องลง NodeJS ก่อนนะ [ดาวน์โหลดได้ที่นี่](https://nodejs.org/en/)
+
 วิธี require module
 
 ```js
